@@ -2,7 +2,8 @@ numpy
 pandas
 pickle-mixin
 streamlit
-streamlit-option-menu
+streamlit-option-menu==0.3.6
 scikit-learn
 protobuf
 altair
+
